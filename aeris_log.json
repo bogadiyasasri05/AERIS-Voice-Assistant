@@ -1,0 +1,12 @@
+[
+    {
+        "user": "what is the value of cos",
+        "aeris": "The cosine function, cos(x),  requires an input (an angle, x).  It doesn't have a single value.  Please provide the angle for which you want to find the cosine.\n",
+        "timestamp": "2025-06-27T16:57:56.462378"
+    },
+    {
+        "user": "tell me how to build self esteem",
+        "aeris": "Building self-esteem is a journey, not a destination.  Here are some key steps:\n\n* **Identify and challenge negative self-talk:**  Replace critical thoughts with realistic and positive ones.\n* **Set achievable goals:**  Success builds confidence. Start small and celebrate your wins.\n* **Practice self-compassion:** Treat yourself with the same kindness you'd offer a friend.\n* **Focus on your strengths:**  Recognize and utilize your talents and positive qualities.\n* **Take care of your physical health:** Exercise, proper nutrition, and sleep significantly impact mood and self-perception.\n* **Learn to say no:**  Setting boundaries protects your time and energy.\n* **Seek support:** Talk to trusted friends, family, or a therapist.\n\n\nThis is a starting point.  Consistent effort is key.\n",
+        "timestamp": "2025-06-27T16:58:35.229271"
+    }
+]

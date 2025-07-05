@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Aeris — Your AI Web Assistant</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <link rel="icon" href="{{ url_for('static', filename='images/logo.png') }}">
+</head>
+<body>
+
+  <div class="container">
+    <!-- HEADER -->
+    <header>
+      <h1>🤖 AERIS</h1>
+      <p class="subtitle">Your Smart Personal Web Assistant</p>
+    </header>
+
+    <!-- CHAT BOXES -->
+    <div id="transcript" class="card">🎙️ Say something...</div>
+    <div id="response" class="card">💬 I’ll respond here!</div>
+
+    <!-- BUTTONS -->
+    <div class="button-group">
+      <button id="toggleMic">🎤 Start Listening</button>
+      <button id="clearChat">🧹 Clear</button>
+      <button id="stopAll">⛔ Stop</button>
+    </div>
+
+    <!-- AVATAR -->
+    <div class="avatar-container">
+      <img src="{{ url_for('static', filename='images/avatar.png') }}" alt="Aeris Avatar" class="avatar" />
+      <div class="speaking-indicator"></div>
+    </div>
+
+    <!-- FEEDBACK FORM -->
+    <section class="feedback-section">
+      <h2>📩 Have Feedback or a Question?</h2>
+      <form action="https://formspree.io/f/xovwyeqn" method="POST" class="feedback-form">
+        <div class="form-group">
+          <input type="text" name="name" placeholder="Your Name" required />
+        </div>
+        <div class="form-group">
+          <input type="email" name="email" placeholder="Your Email" required />
+        </div>
+        <div class="form-group">
+          <textarea name="message" placeholder="Type your message..." required></textarea>
+        </div>
+        <div class="form-group">
+          <button type="submit">Send Message</button>
+        </div>
+      </form>
+      <p class="form-success" id="formSuccessMsg">✅ Thank you for your message!</p>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+      <p>Made with ❤️ by Yasasri & Aeris</p>
+    </footer>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

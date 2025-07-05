@@ -1,0 +1,483 @@
+2025-06-27 15:42:03,728 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-27 15:42:03,729 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-27 15:42:03,732 - INFO -  * Restarting with stat
+2025-06-27 15:42:05,870 - WARNING -  * Debugger is active!
+2025-06-27 15:42:05,875 - INFO -  * Debugger PIN: 136-820-799
+2025-06-27 15:43:09,735 - INFO - 127.0.0.1 - - [27/Jun/2025 15:43:09] "GET / HTTP/1.1" 200 -
+2025-06-27 15:43:09,946 - INFO - 127.0.0.1 - - [27/Jun/2025 15:43:09] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-27 15:43:09,974 - INFO - 127.0.0.1 - - [27/Jun/2025 15:43:09] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-06-27 15:43:10,323 - INFO - 127.0.0.1 - - [27/Jun/2025 15:43:10] "GET /static/images/logo.png HTTP/1.1" 200 -
+2025-06-27 15:43:28,772 - INFO - User said: hair is open downloads
+2025-06-27 15:43:29,997 - INFO - Aeris replied: I cannot assist with that request.  Downloading copyrighted material without permission is illegal.
+
+2025-06-27 15:43:29,999 - INFO - 127.0.0.1 - - [27/Jun/2025 15:43:29] "POST /query HTTP/1.1" 200 -
+2025-06-27 15:43:46,240 - INFO - User said: what is the value of 2 Star 2
+2025-06-27 15:43:47,025 - INFO - Aeris replied: That's not a standard mathematical expression.  To answer, I need clarification on what "Star" represents. Is it a variable, an operator (like +, -, *, /), or something else?
+
+2025-06-27 15:43:47,026 - INFO - 127.0.0.1 - - [27/Jun/2025 15:43:47] "POST /query HTTP/1.1" 200 -
+2025-06-27 15:44:10,102 - INFO - User said: can you tell me the lyrics of blank space by Taylor Swift
+2025-06-27 15:44:11,466 - INFO - Aeris replied: I cannot provide the full lyrics here due to copyright restrictions.  However, you can easily find the lyrics by searching "Blank Space lyrics Taylor Swift" on your preferred search engine.
+
+2025-06-27 15:44:11,468 - INFO - 127.0.0.1 - - [27/Jun/2025 15:44:11] "POST /query HTTP/1.1" 200 -
+2025-06-27 15:44:29,077 - INFO - User said: can you open YouTube
+2025-06-27 15:44:39,943 - INFO - User said: open YouTube
+2025-06-27 15:44:41,829 - INFO - Aeris replied: I can't directly open YouTube or any other application.  I am a text-based AI and don't have control over your computer. You will need to open it yourself.
+
+2025-06-27 15:44:41,830 - INFO - 127.0.0.1 - - [27/Jun/2025 15:44:41] "POST /query HTTP/1.1" 200 -
+2025-06-27 15:44:45,716 - INFO - Aeris replied: I can't directly open YouTube or any other application. I am a text-based AI and don't have the capability to interact with your computer's operating system.  You'll need to open it yourself.
+
+2025-06-27 15:44:45,718 - INFO - 127.0.0.1 - - [27/Jun/2025 15:44:45] "POST /query HTTP/1.1" 200 -
+2025-06-27 15:45:11,350 - INFO - User said: tell me what are the actions you can provide
+2025-06-27 15:45:25,495 - INFO - Aeris replied: I can provide information, answer questions, generate text (stories, summaries, emails, etc.), translate languages, and perform simple calculations.  My capabilities are limited by my programming and access to external resources.  I cannot access or control external files, applications, or the internet in a way that would affect the user's computer.
+
+2025-06-27 15:45:25,495 - INFO - 127.0.0.1 - - [27/Jun/2025 15:45:25] "POST /query HTTP/1.1" 200 -
+2025-06-27 15:45:27,561 - INFO - User said: what are the
+2025-06-27 15:45:28,235 - INFO - Aeris replied: Please finish your question.  I need more information to understand what you're asking.
+
+2025-06-27 15:45:28,236 - INFO - 127.0.0.1 - - [27/Jun/2025 15:45:28] "POST /query HTTP/1.1" 200 -
+2025-06-27 15:46:01,748 - INFO - User said: actions what you can do
+2025-06-27 15:46:02,886 - INFO - Aeris replied: I can answer questions, provide information, generate different creative text formats (poems, code, scripts, musical pieces, email, letters, etc.), translate languages, and summarize factual topics or create stories.  My abilities are limited by my programming and data access.
+
+2025-06-27 15:46:02,887 - INFO - 127.0.0.1 - - [27/Jun/2025 15:46:02] "POST /query HTTP/1.1" 200 -
+2025-06-27 15:46:43,356 - INFO - User said: ok since you can access musical pieces Can you provide me blank space by Taylor Swift
+2025-06-27 15:46:45,068 - INFO - Aeris replied: I cannot provide you with the audio of "Blank Space" by Taylor Swift. I do not have access to copyrighted music files and distributing them would be illegal. You can listen to it through legal streaming services or purchase it.
+
+2025-06-27 15:46:45,068 - INFO - 127.0.0.1 - - [27/Jun/2025 15:46:45] "POST /query HTTP/1.1" 200 -
+2025-06-27 16:27:06,685 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-27 16:27:06,686 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-27 16:27:06,687 - INFO -  * Restarting with stat
+2025-06-27 16:27:08,502 - WARNING -  * Debugger is active!
+2025-06-27 16:27:08,507 - INFO -  * Debugger PIN: 136-820-799
+2025-06-27 16:27:15,711 - INFO - 127.0.0.1 - - [27/Jun/2025 16:27:15] "GET / HTTP/1.1" 200 -
+2025-06-27 16:27:15,770 - INFO - 127.0.0.1 - - [27/Jun/2025 16:27:15] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-27 16:27:15,770 - INFO - 127.0.0.1 - - [27/Jun/2025 16:27:15] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 16:27:16,036 - INFO - 127.0.0.1 - - [27/Jun/2025 16:27:16] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 16:28:35,369 - INFO - 127.0.0.1 - - [27/Jun/2025 16:28:35] "GET / HTTP/1.1" 200 -
+2025-06-27 16:28:35,429 - INFO - 127.0.0.1 - - [27/Jun/2025 16:28:35] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-27 16:28:35,439 - INFO - 127.0.0.1 - - [27/Jun/2025 16:28:35] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 16:28:35,602 - INFO - 127.0.0.1 - - [27/Jun/2025 16:28:35] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 16:28:36,944 - INFO - 127.0.0.1 - - [27/Jun/2025 16:28:36] "GET / HTTP/1.1" 200 -
+2025-06-27 16:28:37,011 - INFO - 127.0.0.1 - - [27/Jun/2025 16:28:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-27 16:28:37,014 - INFO - 127.0.0.1 - - [27/Jun/2025 16:28:37] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 16:28:37,161 - INFO - 127.0.0.1 - - [27/Jun/2025 16:28:37] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 16:28:54,549 - INFO - 127.0.0.1 - - [27/Jun/2025 16:28:54] "GET / HTTP/1.1" 200 -
+2025-06-27 16:28:54,605 - INFO - 127.0.0.1 - - [27/Jun/2025 16:28:54] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-27 16:28:54,620 - INFO - 127.0.0.1 - - [27/Jun/2025 16:28:54] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 16:28:54,695 - INFO - 127.0.0.1 - - [27/Jun/2025 16:28:54] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 16:29:11,068 - INFO - User said: hey let's build
+2025-06-27 16:29:13,869 - INFO - Aeris replied: Let's build what?  Please tell me what you'd like to build.  I can help brainstorm ideas or provide information if you have a specific project in mind.
+
+2025-06-27 16:29:13,869 - INFO - 127.0.0.1 - - [27/Jun/2025 16:29:13] "POST /query HTTP/1.1" 200 -
+2025-06-27 16:29:13,875 - INFO - User said: accompanying
+2025-06-27 16:29:15,679 - INFO - Aeris replied: Accompanying what?  I need more context.  Accompanying implies something else is involved.  Please clarify your request.
+
+2025-06-27 16:29:15,680 - INFO - 127.0.0.1 - - [27/Jun/2025 16:29:15] "POST /query HTTP/1.1" 200 -
+2025-06-27 16:29:45,737 - INFO - User said: give me top 5 Python projects I can work on within 4 days
+2025-06-27 16:29:48,097 - INFO - Aeris replied: Within 4 days, you'll want relatively small projects.  Here are 5 ideas, ranked roughly from easiest to hardest:
+
+1. **Number Guessing Game:**  A simple game where the computer generates a random number, and the user tries to guess it.  Provides practice with loops, input/output, and random number generation.
+
+2. **Simple Calculator:**  A program that performs basic arithmetic operations (+, -, *, /) based on user input.  Good for practicing function definitions and conditional statements.
+
+3. **To-Do List App (Text-Based):**  A program that allows users to add, remove, and view tasks from a list stored in memory (not a file).  Focuses on list manipulation and user interaction.
+
+4. **Basic Text-Based Adventure Game:**  A short, simple adventure game with a few rooms and choices.  Introduces the concept of game logic and branching narratives.
+
+5. **Simple Data Analysis (CSV):** Read a small CSV file (e.g., comma-separated values), calculate basic statistics (average, max, min) of a column, and print the results.  Requires working with files and data structures.
+
+
+Remember to choose a project that aligns with your current skill level in Python.
+
+2025-06-27 16:29:48,098 - INFO - 127.0.0.1 - - [27/Jun/2025 16:29:48] "POST /query HTTP/1.1" 200 -
+2025-06-27 16:32:32,523 - INFO - 127.0.0.1 - - [27/Jun/2025 16:32:32] "GET / HTTP/1.1" 200 -
+2025-06-27 16:32:32,600 - INFO - 127.0.0.1 - - [27/Jun/2025 16:32:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-27 16:32:32,602 - INFO - 127.0.0.1 - - [27/Jun/2025 16:32:32] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-06-27 16:32:32,748 - INFO - 127.0.0.1 - - [27/Jun/2025 16:32:32] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 16:32:40,118 - INFO - User said: tell me top five projects in machine learning
+2025-06-27 16:32:48,577 - INFO - Aeris replied: The "top" projects depend on your goals, but here are five impactful machine learning project areas, ranging in complexity:
+
+1. **Image Classification:**  Building a model to classify images (e.g., cats vs. dogs, different types of flowers).  A good starting point, many datasets and tutorials available.
+
+2. **Sentiment Analysis:** Analyzing text to determine the sentiment expressed (positive, negative, neutral).  Applications in social media monitoring, customer feedback analysis.
+
+3. **Recommendation System:** Building a system that recommends items to users based on their past behavior or preferences.  Used widely in e-commerce and entertainment.
+
+4. **Time Series Forecasting:** Predicting future values based on past data (e.g., stock prices, weather).  Requires understanding of time-series data and appropriate models.
+
+5. **Object Detection:** Identifying and locating objects within images or videos.  More complex than image classification, used in self-driving cars and medical imaging.
+
+
+These projects offer various levels of challenge and allow you to explore different aspects of machine learning.  Choose based on your skills and available resources.
+
+2025-06-27 16:32:48,578 - INFO - 127.0.0.1 - - [27/Jun/2025 16:32:48] "POST /query HTTP/1.1" 200 -
+2025-06-27 16:34:06,499 - INFO - 127.0.0.1 - - [27/Jun/2025 16:34:06] "GET / HTTP/1.1" 200 -
+2025-06-27 16:34:06,593 - INFO - 127.0.0.1 - - [27/Jun/2025 16:34:06] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-27 16:34:06,599 - INFO - 127.0.0.1 - - [27/Jun/2025 16:34:06] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 16:34:06,675 - INFO - 127.0.0.1 - - [27/Jun/2025 16:34:06] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 16:34:09,480 - INFO - 127.0.0.1 - - [27/Jun/2025 16:34:09] "GET / HTTP/1.1" 200 -
+2025-06-27 16:34:09,526 - INFO - 127.0.0.1 - - [27/Jun/2025 16:34:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-27 16:34:09,529 - INFO - 127.0.0.1 - - [27/Jun/2025 16:34:09] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 16:34:09,600 - INFO - 127.0.0.1 - - [27/Jun/2025 16:34:09] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 16:35:15,014 - INFO - 127.0.0.1 - - [27/Jun/2025 16:35:15] "GET / HTTP/1.1" 200 -
+2025-06-27 16:35:15,063 - INFO - 127.0.0.1 - - [27/Jun/2025 16:35:15] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 16:35:15,328 - INFO - 127.0.0.1 - - [27/Jun/2025 16:35:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-27 16:36:14,011 - INFO - 127.0.0.1 - - [27/Jun/2025 16:36:14] "GET / HTTP/1.1" 200 -
+2025-06-27 16:36:14,069 - INFO - 127.0.0.1 - - [27/Jun/2025 16:36:14] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 16:36:14,077 - INFO - 127.0.0.1 - - [27/Jun/2025 16:36:14] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-27 16:37:22,987 - INFO - 127.0.0.1 - - [27/Jun/2025 16:37:22] "GET / HTTP/1.1" 200 -
+2025-06-27 16:37:23,043 - INFO - 127.0.0.1 - - [27/Jun/2025 16:37:23] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 16:37:23,046 - INFO - 127.0.0.1 - - [27/Jun/2025 16:37:23] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-27 16:38:15,281 - INFO - 127.0.0.1 - - [27/Jun/2025 16:38:15] "GET / HTTP/1.1" 200 -
+2025-06-27 16:38:15,344 - INFO - 127.0.0.1 - - [27/Jun/2025 16:38:15] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 16:38:15,348 - INFO - 127.0.0.1 - - [27/Jun/2025 16:38:15] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-27 16:38:43,121 - INFO - User said: what is the weather in Vijayawada
+2025-06-27 16:38:44,586 - INFO - Aeris replied: I do not have real-time access to current weather conditions.  To get the current weather in Vijayawada, please use a weather website or app such as Google Weather, AccuWeather, or a similar service.
+
+2025-06-27 16:38:44,587 - INFO - 127.0.0.1 - - [27/Jun/2025 16:38:44] "POST /query HTTP/1.1" 200 -
+2025-06-27 16:39:20,430 - INFO - 127.0.0.1 - - [27/Jun/2025 16:39:20] "GET / HTTP/1.1" 200 -
+2025-06-27 16:39:20,507 - INFO - 127.0.0.1 - - [27/Jun/2025 16:39:20] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 16:39:20,508 - INFO - 127.0.0.1 - - [27/Jun/2025 16:39:20] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-27 16:39:23,370 - INFO - 127.0.0.1 - - [27/Jun/2025 16:39:23] "GET / HTTP/1.1" 200 -
+2025-06-27 16:39:23,429 - INFO - 127.0.0.1 - - [27/Jun/2025 16:39:23] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 16:39:23,436 - INFO - 127.0.0.1 - - [27/Jun/2025 16:39:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-27 16:47:38,447 - INFO - 127.0.0.1 - - [27/Jun/2025 16:47:38] "GET / HTTP/1.1" 200 -
+2025-06-27 16:47:38,490 - INFO - 127.0.0.1 - - [27/Jun/2025 16:47:38] "[33mGET /static/images/avatar.png HTTP/1.1[0m" 404 -
+2025-06-27 16:47:38,512 - INFO - 127.0.0.1 - - [27/Jun/2025 16:47:38] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-06-27 16:47:38,556 - INFO - 127.0.0.1 - - [27/Jun/2025 16:47:38] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-27 16:51:08,061 - INFO - 127.0.0.1 - - [27/Jun/2025 16:51:08] "GET / HTTP/1.1" 200 -
+2025-06-27 16:51:08,123 - INFO - 127.0.0.1 - - [27/Jun/2025 16:51:08] "[33mGET /static/images/avatar.png HTTP/1.1[0m" 404 -
+2025-06-27 16:51:08,126 - INFO - 127.0.0.1 - - [27/Jun/2025 16:51:08] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-27 16:51:08,131 - INFO - 127.0.0.1 - - [27/Jun/2025 16:51:08] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-06-27 16:51:08,357 - INFO - 127.0.0.1 - - [27/Jun/2025 16:51:08] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 16:52:02,601 - INFO - 127.0.0.1 - - [27/Jun/2025 16:52:02] "GET / HTTP/1.1" 200 -
+2025-06-27 16:52:02,662 - INFO - 127.0.0.1 - - [27/Jun/2025 16:52:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-27 16:52:02,665 - INFO - 127.0.0.1 - - [27/Jun/2025 16:52:02] "GET /static/images/avatar.png HTTP/1.1" 200 -
+2025-06-27 16:52:02,669 - INFO - 127.0.0.1 - - [27/Jun/2025 16:52:02] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 16:52:02,739 - INFO - 127.0.0.1 - - [27/Jun/2025 16:52:02] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 16:52:08,738 - INFO - User said: tell me what is 5 + 5
+2025-06-27 16:52:09,742 - INFO - Aeris replied: 10
+
+2025-06-27 16:52:09,743 - INFO - 127.0.0.1 - - [27/Jun/2025 16:52:09] "POST /query HTTP/1.1" 200 -
+2025-06-27 16:52:22,560 - INFO - User said: how can you build Anya agent which tells us how to do an app
+2025-06-27 16:52:25,365 - INFO - Aeris replied: Building an Anya agent (assuming "Anya" refers to a custom AI assistant similar to other virtual assistants) that provides app development guidance requires several steps:
+
+1. **Define Scope:**  Specify the types of apps Anya should handle (mobile, web, desktop).  Will it cover all platforms or focus on one? What level of detail will it provide (high-level overview or detailed code examples)?
+
+2. **Data Acquisition:** Gather data on app development. This could include tutorials, documentation, code examples from various sources (online courses, Stack Overflow, official documentation).  This is the knowledge base Anya will draw from.
+
+3. **Model Selection:** Choose a suitable language model (like those from OpenAI, Google, etc.).  The model should be capable of understanding natural language queries, generating code, and providing structured information.
+
+4. **Prompt Engineering:** Design prompts to elicit helpful and accurate responses.  Experiment with different prompt structures to obtain the best results from your chosen model.  This is crucial for guiding Anya's responses to user queries about app development.
+
+5. **Integration and Testing:** Integrate the language model with a user interface (e.g., a chat interface, a website).  Rigorously test Anya with various app development questions to identify gaps in knowledge or inconsistencies in responses.
+
+6. **Refinement and Iteration:** Continuously refine Anya's knowledge base and prompt engineering techniques based on user feedback and performance analysis.
+
+
+This is a complex project.  Building a truly capable Anya agent requires significant effort in data collection, model selection, and iterative refinement.
+
+2025-06-27 16:52:25,366 - INFO - 127.0.0.1 - - [27/Jun/2025 16:52:25] "POST /query HTTP/1.1" 200 -
+2025-06-27 16:53:09,035 - INFO - User said: multiple organisations price
+2025-06-27 16:53:10,437 - INFO - Aeris replied: Please clarify your request.  "Multiple organisations price" is incomplete.  Do you want to:
+
+* **Compare the prices of different organizations' services or products?**  If so, please specify the organizations and services.
+* **Find out how multiple organizations price their services?** Please specify the organizations and their offerings.
+* **Something else?** Please rephrase your question with more details.
+
+2025-06-27 16:53:10,438 - INFO - 127.0.0.1 - - [27/Jun/2025 16:53:10] "POST /query HTTP/1.1" 200 -
+2025-06-27 16:53:12,596 - INFO - User said: please clarify
+2025-06-27 16:53:13,465 - INFO - Aeris replied: Please provide the statement or question you would like me to clarify. I need the context to help.
+
+2025-06-27 16:53:13,466 - INFO - 127.0.0.1 - - [27/Jun/2025 16:53:13] "POST /query HTTP/1.1" 200 -
+2025-06-27 16:53:48,308 - INFO - 127.0.0.1 - - [27/Jun/2025 16:53:48] "GET / HTTP/1.1" 200 -
+2025-06-27 16:53:48,374 - INFO - 127.0.0.1 - - [27/Jun/2025 16:53:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-27 16:53:48,378 - INFO - 127.0.0.1 - - [27/Jun/2025 16:53:48] "[36mGET /static/images/avatar.png HTTP/1.1[0m" 304 -
+2025-06-27 16:53:48,382 - INFO - 127.0.0.1 - - [27/Jun/2025 16:53:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 16:53:48,614 - INFO - 127.0.0.1 - - [27/Jun/2025 16:53:48] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 16:55:34,316 - INFO -  * Detected change in 'C:\\Users\\Asus\\Documents\\MyReactProject\\AerisWebApp\\app.py', reloading
+2025-06-27 16:55:34,353 - INFO -  * Detected change in 'C:\\Users\\Asus\\Documents\\MyReactProject\\AerisWebApp\\app.py', reloading
+2025-06-27 16:55:34,673 - INFO -  * Restarting with stat
+2025-06-27 16:55:36,689 - WARNING -  * Debugger is active!
+2025-06-27 16:55:36,696 - INFO -  * Debugger PIN: 136-820-799
+2025-06-27 16:55:36,739 - INFO -  * Restarting with stat
+2025-06-27 16:55:38,586 - WARNING -  * Debugger is active!
+2025-06-27 16:55:38,591 - INFO -  * Debugger PIN: 136-820-799
+2025-06-27 16:55:41,838 - INFO - 127.0.0.1 - - [27/Jun/2025 16:55:41] "GET / HTTP/1.1" 200 -
+2025-06-27 16:55:42,102 - INFO - 127.0.0.1 - - [27/Jun/2025 16:55:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-27 16:55:42,131 - INFO - 127.0.0.1 - - [27/Jun/2025 16:55:42] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 16:55:42,132 - INFO - 127.0.0.1 - - [27/Jun/2025 16:55:42] "[36mGET /static/images/avatar.png HTTP/1.1[0m" 304 -
+2025-06-27 16:55:42,203 - INFO - 127.0.0.1 - - [27/Jun/2025 16:55:42] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 16:55:49,199 - INFO - User said: what is the value of cos square theta + sin square theta
+2025-06-27 16:55:51,682 - INFO - Aeris replied: The value of cos²\u03b8 + sin²\u03b8 is always 1.
+
+2025-06-27 16:55:51,688 - INFO - 127.0.0.1 - - [27/Jun/2025 16:55:51] "POST /query HTTP/1.1" 200 -
+2025-06-27 16:55:53,907 - INFO - User said: the value of cos
+2025-06-27 16:55:54,640 - INFO - Aeris replied: The value of cos (cosine) depends on the angle.  Please specify the angle.
+
+2025-06-27 16:55:54,642 - INFO - 127.0.0.1 - - [27/Jun/2025 16:55:54] "POST /query HTTP/1.1" 200 -
+2025-06-27 16:57:48,314 - INFO -  * Detected change in 'C:\\Users\\Asus\\Documents\\MyReactProject\\AerisWebApp\\app.py', reloading
+2025-06-27 16:57:48,577 - INFO -  * Detected change in 'C:\\Users\\Asus\\Documents\\MyReactProject\\AerisWebApp\\app.py', reloading
+2025-06-27 16:57:48,828 - INFO -  * Restarting with stat
+2025-06-27 16:57:50,591 - INFO -  * Restarting with stat
+2025-06-27 16:57:50,954 - WARNING -  * Debugger is active!
+2025-06-27 16:57:50,961 - INFO -  * Debugger PIN: 136-820-799
+2025-06-27 16:57:52,564 - WARNING -  * Debugger is active!
+2025-06-27 16:57:52,570 - INFO -  * Debugger PIN: 136-820-799
+2025-06-27 16:57:56,464 - INFO - User said: what is the value of cos
+2025-06-27 16:57:56,464 - INFO - Aeris replied: The cosine function, cos(x),  requires an input (an angle, x).  It doesn't have a single value.  Please provide the angle for which you want to find the cosine.
+
+2025-06-27 16:57:56,465 - INFO - 127.0.0.1 - - [27/Jun/2025 16:57:56] "POST /query HTTP/1.1" 200 -
+2025-06-27 16:58:35,232 - INFO - User said: tell me how to build self esteem
+2025-06-27 16:58:35,232 - INFO - Aeris replied: Building self-esteem is a journey, not a destination.  Here are some key steps:
+
+* **Identify and challenge negative self-talk:**  Replace critical thoughts with realistic and positive ones.
+* **Set achievable goals:**  Success builds confidence. Start small and celebrate your wins.
+* **Practice self-compassion:** Treat yourself with the same kindness you'd offer a friend.
+* **Focus on your strengths:**  Recognize and utilize your talents and positive qualities.
+* **Take care of your physical health:** Exercise, proper nutrition, and sleep significantly impact mood and self-perception.
+* **Learn to say no:**  Setting boundaries protects your time and energy.
+* **Seek support:** Talk to trusted friends, family, or a therapist.
+
+
+This is a starting point.  Consistent effort is key.
+
+2025-06-27 16:58:35,233 - INFO - 127.0.0.1 - - [27/Jun/2025 16:58:35] "POST /query HTTP/1.1" 200 -
+2025-06-27 17:03:05,401 - INFO -  * Detected change in 'C:\\Users\\Asus\\Documents\\MyReactProject\\AerisWebApp\\app.py', reloading
+2025-06-27 17:03:05,823 - INFO -  * Detected change in 'C:\\Users\\Asus\\Documents\\MyReactProject\\AerisWebApp\\app.py', reloading
+2025-06-27 17:03:06,105 - INFO -  * Restarting with stat
+2025-06-27 17:03:07,710 - INFO -  * Restarting with stat
+2025-06-27 17:03:08,143 - WARNING -  * Debugger is active!
+2025-06-27 17:03:08,149 - INFO -  * Debugger PIN: 136-820-799
+2025-06-27 17:03:09,577 - WARNING -  * Debugger is active!
+2025-06-27 17:03:09,583 - INFO -  * Debugger PIN: 136-820-799
+2025-06-27 17:04:21,948 - INFO -  * Detected change in 'C:\\Users\\Asus\\Documents\\MyReactProject\\AerisWebApp\\app.py', reloading
+2025-06-27 17:04:22,224 - INFO -  * Restarting with stat
+2025-06-27 17:04:22,445 - INFO -  * Detected change in 'C:\\Users\\Asus\\Documents\\MyReactProject\\AerisWebApp\\app.py', reloading
+2025-06-27 17:04:22,716 - INFO -  * Restarting with stat
+2025-06-27 17:04:24,273 - WARNING -  * Debugger is active!
+2025-06-27 17:04:24,279 - INFO -  * Debugger PIN: 136-820-799
+2025-06-27 17:04:24,757 - WARNING -  * Debugger is active!
+2025-06-27 17:04:24,767 - INFO -  * Debugger PIN: 136-820-799
+2025-06-27 17:04:25,916 - INFO - 127.0.0.1 - - [27/Jun/2025 17:04:25] "GET / HTTP/1.1" 200 -
+2025-06-27 17:04:26,260 - INFO - 127.0.0.1 - - [27/Jun/2025 17:04:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-27 17:04:26,274 - INFO - 127.0.0.1 - - [27/Jun/2025 17:04:26] "[36mGET /static/images/avatar.png HTTP/1.1[0m" 304 -
+2025-06-27 17:04:26,276 - INFO - 127.0.0.1 - - [27/Jun/2025 17:04:26] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 17:04:26,466 - INFO - 127.0.0.1 - - [27/Jun/2025 17:04:26] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 17:04:31,536 - INFO - User said: what is the capital of India
+2025-06-27 17:04:31,536 - INFO - Aeris replied: New Delhi.
+
+2025-06-27 17:04:31,538 - INFO - 127.0.0.1 - - [27/Jun/2025 17:04:31] "POST /query HTTP/1.1" 200 -
+2025-06-27 17:04:40,534 - ERROR - Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 18
+}
+]
+2025-06-27 17:04:40,534 - INFO - 127.0.0.1 - - [27/Jun/2025 17:04:40] "POST /query HTTP/1.1" 200 -
+2025-06-27 17:04:42,844 - ERROR - Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 16
+}
+]
+2025-06-27 17:04:42,845 - INFO - 127.0.0.1 - - [27/Jun/2025 17:04:42] "POST /query HTTP/1.1" 200 -
+2025-06-27 17:04:53,760 - ERROR - Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 5
+}
+]
+2025-06-27 17:04:53,761 - INFO - 127.0.0.1 - - [27/Jun/2025 17:04:53] "POST /query HTTP/1.1" 200 -
+2025-06-27 17:04:55,904 - ERROR - Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 3
+}
+]
+2025-06-27 17:04:55,906 - INFO - 127.0.0.1 - - [27/Jun/2025 17:04:55] "POST /query HTTP/1.1" 200 -
+2025-06-27 17:05:05,602 - ERROR - Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 53
+}
+]
+2025-06-27 17:05:05,603 - INFO - 127.0.0.1 - - [27/Jun/2025 17:05:05] "POST /query HTTP/1.1" 200 -
+2025-06-27 17:05:08,474 - ERROR - Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 50
+}
+]
+2025-06-27 17:05:08,475 - INFO - 127.0.0.1 - - [27/Jun/2025 17:05:08] "POST /query HTTP/1.1" 200 -
+2025-06-27 17:06:56,678 - INFO -  * Detected change in 'C:\\Users\\Asus\\Documents\\MyReactProject\\AerisWebApp\\app.py', reloading
+2025-06-27 17:06:57,399 - INFO -  * Detected change in 'C:\\Users\\Asus\\Documents\\MyReactProject\\AerisWebApp\\app.py', reloading
+2025-06-27 17:06:57,758 - INFO -  * Restarting with stat
+2025-06-27 17:06:58,972 - INFO -  * Restarting with stat
+2025-06-27 17:07:44,081 - INFO -  * Restarting with stat
+2025-06-27 17:07:46,127 - WARNING -  * Debugger is active!
+2025-06-27 17:07:46,132 - INFO -  * Debugger PIN: 136-820-799
+2025-06-27 17:07:46,276 - INFO -  * Restarting with stat
+2025-06-27 17:07:48,281 - WARNING -  * Debugger is active!
+2025-06-27 17:07:48,286 - INFO -  * Debugger PIN: 136-820-799
+2025-06-27 17:07:48,393 - INFO - 127.0.0.1 - - [27/Jun/2025 17:07:48] "GET / HTTP/1.1" 200 -
+2025-06-27 17:07:48,635 - INFO - 127.0.0.1 - - [27/Jun/2025 17:07:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-27 17:07:48,657 - INFO - 127.0.0.1 - - [27/Jun/2025 17:07:48] "[36mGET /static/images/avatar.png HTTP/1.1[0m" 304 -
+2025-06-27 17:07:48,658 - INFO - 127.0.0.1 - - [27/Jun/2025 17:07:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 17:07:48,727 - INFO - 127.0.0.1 - - [27/Jun/2025 17:07:48] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 17:07:55,192 - ERROR - Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 3
+}
+]
+2025-06-27 17:07:55,193 - INFO - 127.0.0.1 - - [27/Jun/2025 17:07:55] "POST /query HTTP/1.1" 200 -
+2025-06-27 17:10:20,367 - INFO -  * Detected change in 'C:\\Users\\Asus\\Documents\\MyReactProject\\AerisWebApp\\app.py', reloading
+2025-06-27 17:10:20,372 - INFO -  * Detected change in 'C:\\Users\\Asus\\Documents\\MyReactProject\\AerisWebApp\\app.py', reloading
+2025-06-27 17:10:20,704 - INFO -  * Restarting with stat
+2025-06-27 17:10:22,706 - INFO -  * Restarting with stat
+2025-06-27 17:13:09,885 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-27 17:13:09,886 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-27 17:13:09,888 - INFO -  * Restarting with stat
+2025-06-27 17:13:11,667 - WARNING -  * Debugger is active!
+2025-06-27 17:13:11,671 - INFO -  * Debugger PIN: 136-820-799
+2025-06-27 17:13:20,598 - INFO - 127.0.0.1 - - [27/Jun/2025 17:13:20] "GET / HTTP/1.1" 200 -
+2025-06-27 17:13:20,915 - INFO - 127.0.0.1 - - [27/Jun/2025 17:13:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-27 17:13:20,918 - INFO - 127.0.0.1 - - [27/Jun/2025 17:13:20] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-27 17:13:20,921 - INFO - 127.0.0.1 - - [27/Jun/2025 17:13:20] "[36mGET /static/images/avatar.png HTTP/1.1[0m" 304 -
+2025-06-27 17:13:21,239 - INFO - 127.0.0.1 - - [27/Jun/2025 17:13:21] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 17:13:29,771 - INFO - User said: what is the capital of Sri Lanka
+2025-06-27 17:13:29,772 - INFO - Aeris replied: The capital of Sri Lanka is Sri Jayawardenepura Kotte.
+
+2025-06-27 17:13:29,772 - INFO - 127.0.0.1 - - [27/Jun/2025 17:13:29] "POST /query HTTP/1.1" 200 -
+2025-06-27 17:16:58,289 - INFO - 127.0.0.1 - - [27/Jun/2025 17:16:58] "GET / HTTP/1.1" 200 -
+2025-06-27 17:16:58,368 - INFO - 127.0.0.1 - - [27/Jun/2025 17:16:58] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-27 17:16:58,373 - INFO - 127.0.0.1 - - [27/Jun/2025 17:16:58] "[36mGET /static/images/avatar.png HTTP/1.1[0m" 304 -
+2025-06-27 17:16:58,373 - INFO - 127.0.0.1 - - [27/Jun/2025 17:16:58] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-06-27 17:16:58,536 - INFO - 127.0.0.1 - - [27/Jun/2025 17:16:58] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 17:18:27,748 - INFO - 127.0.0.1 - - [27/Jun/2025 17:18:27] "GET / HTTP/1.1" 200 -
+2025-06-27 17:18:27,803 - INFO - 127.0.0.1 - - [27/Jun/2025 17:18:27] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-27 17:18:27,803 - INFO - 127.0.0.1 - - [27/Jun/2025 17:18:27] "[36mGET /static/images/avatar.png HTTP/1.1[0m" 304 -
+2025-06-27 17:18:28,022 - INFO - 127.0.0.1 - - [27/Jun/2025 17:18:28] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 17:18:29,637 - INFO - 127.0.0.1 - - [27/Jun/2025 17:18:29] "GET / HTTP/1.1" 200 -
+2025-06-27 17:18:29,710 - INFO - 127.0.0.1 - - [27/Jun/2025 17:18:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-27 17:18:29,713 - INFO - 127.0.0.1 - - [27/Jun/2025 17:18:29] "[36mGET /static/images/avatar.png HTTP/1.1[0m" 304 -
+2025-06-27 17:18:29,953 - INFO - 127.0.0.1 - - [27/Jun/2025 17:18:29] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 17:21:17,472 - INFO - 127.0.0.1 - - [27/Jun/2025 17:21:17] "GET / HTTP/1.1" 200 -
+2025-06-27 17:21:17,533 - INFO - 127.0.0.1 - - [27/Jun/2025 17:21:17] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-06-27 17:21:17,535 - INFO - 127.0.0.1 - - [27/Jun/2025 17:21:17] "[36mGET /static/images/avatar.png HTTP/1.1[0m" 304 -
+2025-06-27 17:21:17,774 - INFO - 127.0.0.1 - - [27/Jun/2025 17:21:17] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 17:21:24,469 - INFO - 127.0.0.1 - - [27/Jun/2025 17:21:24] "GET /?name=BOGADI+YASASRI+BHARATHI&email=bogadiyasasri@gmail.com&message=HI+%0D%0A HTTP/1.1" 200 -
+2025-06-27 17:21:24,591 - INFO - 127.0.0.1 - - [27/Jun/2025 17:21:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-27 17:21:24,595 - INFO - 127.0.0.1 - - [27/Jun/2025 17:21:24] "[36mGET /static/images/avatar.png HTTP/1.1[0m" 304 -
+2025-06-27 17:21:24,788 - INFO - 127.0.0.1 - - [27/Jun/2025 17:21:24] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-06-27 17:23:16,284 - INFO -  * Detected change in 'C:\\Users\\Asus\\Documents\\MyReactProject\\AerisWebApp\\app.py', reloading
+2025-06-27 17:23:18,560 - INFO -  * Restarting with stat
+2025-06-27 21:57:26,163 - INFO -  * Restarting with stat

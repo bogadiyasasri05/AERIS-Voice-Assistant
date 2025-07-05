@@ -1,0 +1,205 @@
+[
+    {
+        "user": "open sst resume document",
+        "aeris": "I need access to your files to open your SST resume document.  I cannot access local files.  Please provide the content of the document if you would like me to help you with it.\n"
+    },
+    {
+        "user": "open downloads",
+        "aeris": "I do not have the ability to access your local computer files, including your downloads folder.\n"
+    },
+    {
+        "user": "now search for",
+        "aeris": "Please provide me with your search query.\n"
+    },
+    {
+        "user": "what is the eligible weight for 25 years old",
+        "aeris": "There's no single \"eligible weight\" for a 25-year-old.  Weight considered healthy depends on factors like height, body composition (muscle mass vs. fat), and overall health.  To determine a healthy weight range, you should consult a BMI (Body Mass Index) calculator or, better yet, speak to a doctor or registered dietitian.  They can assess your individual circumstances and provide personalized guidance.\n"
+    },
+    {
+        "user": "i want you to search in google",
+        "aeris": "I do not have the ability to directly search Google or other websites.  I am a language model; my knowledge comes from the massive dataset I was trained on. To search Google, you will need to use a web browser or search engine yourself.  Please provide me with your search query, and I will do my best to answer your question based on my existing knowledge.\n"
+    },
+    {
+        "user": "ok what is the eligibility to vote in india",
+        "aeris": "To be eligible to vote in India, you must:\n\n* **Be a citizen of India:**  You must hold Indian citizenship.\n* **Be 18 years of age or older:**  You must have attained the age of 18 years on or before the qualifying date.\n* **Be enrolled on the electoral roll:** Your name must be registered on the electoral roll of your respective constituency.\n\nThere are no other significant restrictions based on gender, caste, religion, or economic status.\n"
+    },
+    {
+        "user": "search for",
+        "aeris": "Please provide me with the search query.  I need to know what you want me to search for.\n"
+    },
+    {
+        "user": "what is the capital of India",
+        "aeris": "New Delhi.\n",
+        "timestamp": "2025-06-27T17:04:31.536586"
+    },
+    {
+        "user": "what is the capital of Sri Lanka",
+        "aeris": "The capital of Sri Lanka is Sri Jayawardenepura Kotte.\n",
+        "timestamp": "2025-06-27T17:13:29.769513"
+    },
+    {
+        "user": "what is the capital of Sri Lanka",
+        "aeris": "The capital of Sri Lanka is Sri Jayawardenepura Kotte.\n",
+        "timestamp": "2025-06-27T21:52:52.631327"
+    },
+    {
+        "user": "what is the scientific name of neem",
+        "aeris": "*Azadirachta indica*\n",
+        "timestamp": "2025-06-27T22:00:08.968470"
+    },
+    {
+        "user": "open Google",
+        "aeris": "I can't directly open Google.  I am a text-based AI and don't have the capability to interact with your computer's operating system or applications.  You will need to do that yourself.\n",
+        "timestamp": "2025-06-27T22:00:26.344001"
+    },
+    {
+        "user": "what is the value of 2 + 2",
+        "aeris": "Sorry, I'm having trouble right now.",
+        "timestamp": "2025-06-27T22:39:25.052769"
+    },
+    {
+        "user": "could you tell me how to add 2 + 2",
+        "aeris": "Sorry, I'm having trouble right now.",
+        "timestamp": "2025-06-27T22:39:36.374743"
+    },
+    {
+        "user": "what is the capital of India",
+        "aeris": "Sorry, I'm having trouble right now.",
+        "timestamp": "2025-06-27T22:43:53.247210"
+    },
+    {
+        "user": "What is the capital of Sri Lanka?",
+        "aeris": "Sorry, I'm having trouble right now.",
+        "timestamp": "2025-07-01T08:54:59.214094"
+    },
+    {
+        "user": "What is the capital of Sri Lanka?",
+        "aeris": "The administrative capital of Sri Lanka is **Sri Jayawardenepura Kotte**.\n\nHowever, **Colombo** is recognized as the executive and judicial capital and remains the country's largest city and commercial center.",
+        "timestamp": "2025-07-01T09:01:21.643518"
+    },
+    {
+        "user": "What is the value of sine squared Theta plus Cos squared Theta?",
+        "aeris": "The value of sine squared theta plus cosine squared theta is **1**.\n\nThis is a fundamental trigonometric rule known as the Pythagorean identity:\n\nsin\u00b2(\u03b8) + cos\u00b2(\u03b8) = 1",
+        "timestamp": "2025-07-01T09:01:25.626194"
+    },
+    {
+        "user": "What is the value of sin square Theta plus Cos square Theta?",
+        "aeris": "The value of sin\u00b2(\u03b8) + cos\u00b2(\u03b8) is **1**.\n\nThis is a fundamental trigonometric identity known as the Pythagorean identity. It is true for any value of theta (\u03b8).",
+        "timestamp": "2025-07-01T09:01:52.098841"
+    },
+    {
+        "user": "What is the value of sin square Theta plus Cos square Theta?",
+        "aeris": "Sorry, I'm having trouble right now.",
+        "timestamp": "2025-07-01T09:03:35.107811"
+    },
+    {
+        "user": "What is the capital of Sri Lanka?",
+        "aeris": "Sorry, I'm having trouble right now.",
+        "timestamp": "2025-07-01T09:03:47.001226"
+    },
+    {
+        "user": "What is the value of sin square Theta plus Cos square Theta?",
+        "aeris": "Sorry, I'm having trouble right now.",
+        "timestamp": "2025-07-01T09:05:20.117354"
+    },
+    {
+        "user": "What is the capital of Sri Lanka?",
+        "aeris": "Sri Jayawardenepura Kotte.",
+        "timestamp": "2025-07-01T09:06:23.183648"
+    },
+    {
+        "user": "Can you tell me who is the Prime Minister of India?",
+        "aeris": "The current Prime Minister of India is Narendra Modi.",
+        "timestamp": "2025-07-01T09:06:32.526555"
+    },
+    {
+        "user": "When was the movie?",
+        "aeris": "Please specify which movie you're asking about.",
+        "timestamp": "2025-07-01T09:06:41.123804"
+    },
+    {
+        "user": "To release, please specify.",
+        "aeris": "Please specify what you want me to release.  More information is needed.",
+        "timestamp": "2025-07-01T09:06:45.109767"
+    },
+    {
+        "user": "What is the release date of Avatar Two movie?",
+        "aeris": "Avatar: The Way of Water was released on December 16, 2022.",
+        "timestamp": "2025-07-01T09:06:58.004974"
+    },
+    {
+        "user": "Theme of Andhra Pradesh.",
+        "aeris": "Andhra Pradesh's theme is multifaceted, but core elements include its rich history, vibrant culture, and developing economy.  Key aspects often highlighted are its Telugu language and heritage, its historical significance as a center of power in South India, and its focus on agriculture and technological advancement.",
+        "timestamp": "2025-07-01T09:08:10.521533"
+    },
+    {
+        "user": "On the raw, Pradesh's theme is.",
+        "aeris": "Pradesh's theme is unrevealed.  More information is needed.",
+        "timestamp": "2025-07-01T09:08:13.890806"
+    },
+    {
+        "user": "Who is the deputy CM of Andhra Pradesh?",
+        "aeris": "The Deputy Chief Minister of Andhra Pradesh is currently  K. Narayana Swamy.",
+        "timestamp": "2025-07-01T09:08:27.540492"
+    },
+    {
+        "user": "Who is the Deputy CM of Andhra Pradesh 2023?",
+        "aeris": "There is no Deputy Chief Minister of Andhra Pradesh in 2023.",
+        "timestamp": "2025-07-01T09:09:36.145026"
+    },
+    {
+        "user": "Who is the finance minister of India?",
+        "aeris": "The current Finance Minister of India is Nirmala Sitharaman.",
+        "timestamp": "2025-07-01T09:09:49.604837"
+    },
+    {
+        "user": "The.",
+        "aeris": "Please clarify your request.",
+        "timestamp": "2025-07-01T09:09:51.109868"
+    },
+    {
+        "user": "Can you tell me what is how many movies Shah Rukh Khan has done?",
+        "aeris": "I cannot give you the exact number of films Shah Rukh Khan has starred in.  The count varies depending on what constitutes a \"film\" (including cameos, short films, etc.) and the source.  Reliable online databases offer varying numbers.",
+        "timestamp": "2025-07-01T09:25:30.067219"
+    },
+    {
+        "user": "Could you tell me who is the wife of Shah Rukh Khan?",
+        "aeris": "Shah Rukh Khan's wife is Gauri Khan.",
+        "timestamp": "2025-07-01T09:25:45.433711"
+    },
+    {
+        "user": "Tell me what are the actions or updates you can do?",
+        "aeris": "I can access and process information from the real world through Google Search and keep my response consistent with search results.  I can translate languages, write different kinds of creative text formats (poems, code, scripts, musical pieces, email, letters, etc.), and answer your questions in an informative way, even if they are open ended, challenging, or strange.",
+        "timestamp": "2025-07-01T09:25:59.965698"
+    },
+    {
+        "user": "What are movie actors?",
+        "aeris": "Movie actors are performers who portray characters in films.  They act out the roles, delivering lines and embodying the character's personality and emotions on screen.",
+        "timestamp": "2025-07-01T09:26:27.527547"
+    },
+    {
+        "user": "In Aria 2.",
+        "aeris": "Understood.  How may I assist you in Aria 2?",
+        "timestamp": "2025-07-01T09:26:29.850282"
+    },
+    {
+        "user": "Who are the movie actors in Arya 2 movie?",
+        "aeris": "The primary actors in Arya 2 are Allu Arjun, Genelia D'Souza, and Navdeep.",
+        "timestamp": "2025-07-01T09:26:38.255242"
+    },
+    {
+        "user": "I think it's not Jannalaya, it's Kajal.",
+        "aeris": "Understood.  I'll note that you prefer \"Kajal\" to \"Jannalaya.\"",
+        "timestamp": "2025-07-01T09:26:51.484797"
+    },
+    {
+        "user": "This is the release date of RR movie.",
+        "aeris": "The release date for the *Final Fantasy VII: Rebirth* movie has not been announced.  There is currently no movie adaptation of *Final Fantasy VII Remake*.",
+        "timestamp": "2025-07-01T09:27:08.168770"
+    },
+    {
+        "user": "When was the movie RRR released?",
+        "aeris": "RRR was released in India on March 25, 2022.",
+        "timestamp": "2025-07-01T09:27:22.082425"
+    }
+]
